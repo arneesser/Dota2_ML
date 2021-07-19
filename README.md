@@ -5,4 +5,4 @@ Dota 2 is a multiplayer online battle arena (MOBA) video game in which two teams
 
 Several ML models were used to predict the outcome of the matches including: random forest, support vector machines (SVM), and logistic regression. The best models were found to achieve an F-1 score of 0.70 demonstrating that the nominated features do accurately predict match outcomes to a certain extent. Despite that, there is certainly room for more features that could improve the performance of the model which were not accounted for such as the heroes played, items bought and more. 
 
-Feature importance of logistic regression revealed that networth was most pertinent in determining winrate, followed by xp. Interestingly last-hits is a marginally negative co-efficient in predicting winrate.  
+Feature importance extracted from logistic regression revealed that networth was most pertinent in determining winrate, followed by xp. Interestingly last-hits is a marginally negative co-efficient in predicting winrate.  
