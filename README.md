@@ -1,5 +1,5 @@
 # Dota2_ML
-This mini project investigated the research question: Can we accurately predict the outcome of dota matches after 15 minutes of gameplay based off of team networth, xp gain, and lasthits alone? 
+This mini project investigated the research question: Can we accurately predict the outcome of dota matches after 15 minutes of gameplay based off of team networth, xp gain, and last-hits alone? 
 
 Dota 2 is a multiplayer online battle arena (MOBA) video game in which two teams of five players compete to collectively destroy a large structure defended by the opposing team known as the "Ancient", whilst defending their own. The dataset used is availalble on Kaggle at: https://www.kaggle.com/devinanzelmo/dota-2-matches?rvi=1
 
